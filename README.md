@@ -16,8 +16,8 @@
 	<p>For more information, please refer to the <a href="https://github.com/yourusername/your-repo/blob/main/README.md">README.md file</a>.</p>
 	<h2>Links</h2>
 	<ul>
-		<li><a href="https://github.com/yourusername/your-repo">GitHub repository</a></li>
-		<li><a href="https://www.linkedin.com/in/yourlinkedinusername/">LinkedIn profile</a></li>
+		<li><a href="https://github.com/ravi130102">GitHub repository</a></li>
+		<li><a href="https://www.linkedin.com/in/ravi-ranjan-b17533209/">LinkedIn profile</a></li>
 	</ul>
 	<h2>Screenshot</h2>
 	<img src="image\Screenshot.png" alt="Screenshot of PDF Splitter">
